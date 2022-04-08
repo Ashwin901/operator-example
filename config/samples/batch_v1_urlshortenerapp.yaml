@@ -1,0 +1,6 @@
+apiVersion: batch.tutorial.kubebuilder.io/v1
+kind: UrlShortenerApp
+metadata:
+  name: urlshortenerapp-sample
+spec:
+  # TODO(user): Add fields here
